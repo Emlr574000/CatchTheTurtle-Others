@@ -17,6 +17,8 @@ point=0
 style = ('Courier', 30, 'italic')
 score=turtle.Turtle()
 score.penup()
+score.hideturtle()
+score.speed("fastest")
 score.goto(-200, 250)
 score.write(f"Points: {point}", font=style)
 score.hideturtle()
