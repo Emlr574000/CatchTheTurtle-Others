@@ -1,7 +1,6 @@
 # CATCH THE TURTLE THE GAME
 
-For start game
-go terminal and:
+Go terminal for start the game and write this:
 
 python CatchTheTurtle.py
 
